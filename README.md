@@ -1,4 +1,4 @@
-🩺 A1C → eAG Converter
+🩺 A1C → eAG Converter</br>
 The A1C → eAG Converter is a simple, interactive web tool that helps users translate their A1C percentage (a standard lab test for long-term blood sugar control) into Estimated Average Glucose (eAG) values. The results are shown in both mg/dL and mmol/L, the two common blood glucose units.
 
 ✨ Features
