@@ -11,10 +11,10 @@ Educational Tip: Includes a practical lifestyle tip (“Walking 10–15 minutes 
 Mobile-Friendly Design: Built with Bootstrap 5 for responsive layout and clean, modern styling.
 
 🧮 Formula Used</br>
-The tool uses the ADA-standardized formula to convert A1C to eAG:
+The tool uses the ADA-standardized formula to convert A1C to eAG:</br>
 eAG (mg/dL) = (28.7 × A1C) − 46.7 eAG (mg/dL)=(28.7×A1C)−46.7
 
-Then, mg/dL is converted to mmol/L using:
+Then, mg/dL is converted to mmol/L using:</br>
 mmol/L = mg/dL 18 mmol/L = 18 mg/dL
 	​
 
